@@ -1,2 +1,2 @@
 # learn-shell
-learning the basics of shell scripting
+learn the basics of shell scripting
